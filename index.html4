@@ -1,0 +1,16 @@
+<!document html>
+<
+
+
+
+
+
+</head>
+<body>
+<a href="#" id="evenid">click</a>
+<script>
+var ei= document.getElementById
+('eventid');
+eionclick = function(){
+    alert("this is inline event)
+}
